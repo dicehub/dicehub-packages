@@ -1,0 +1,3 @@
+[submodule "packages-list"]
+	path = packages-list
+	url = git@github.com:dicehub-packages/packages-list.git
